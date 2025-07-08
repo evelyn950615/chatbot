@@ -128,7 +128,7 @@ if st.session_state["step"] == 0:
     st.markdown("""
         <div style='background:#eef6ff; border-radius:16px; padding:30px 22px 20px 22px; margin-bottom:20px'>
             <h2 style="color:#2563eb; margin-bottom:6px;">
-                TeamCanvas 팀 페르소나 진단 챗봇에 오신 걸 환영합니다!
+                TeamPersona에 오신 걸 환영합니다!
             </h2>
             <div style="font-size:1.14rem; margin-bottom:8px;">
                 <span style="color:#222;">
