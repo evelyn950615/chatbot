@@ -132,7 +132,7 @@ if st.session_state["step"] == 0:
             </h2>
             <div style="font-size:1.14rem; margin-bottom:8px;">
                 <span style="color:#222;">
-                <b>TeamCanvas</b>는 팀 프로젝트 또는 협업 환경에서<br>
+                <b>TeamPersona</b>는 팀 프로젝트 또는 협업 환경에서<br>
                 당신이 가장 잘 발휘할 수 있는 <b>역할/강점/팀 내 페르소나</b>를<br>
                 <b>5가지 핵심 질문</b>을 통해 빠르게 진단해주는 AI 도구입니다.<br><br>
                 결과 리포트에서는 추천 역할, 실무 팁, 성장 포인트까지 확인할 수 있습니다.
